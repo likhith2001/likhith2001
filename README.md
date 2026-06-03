@@ -94,5 +94,8 @@ Experienced and highly analytical Data Analytics Engineer holding an M.Sc. in Co
 ### 🎓 Education & Honors
 
 **Master of Science in Computer Science** | *Lakehead University* (May 2026)
-* **CGPA:** 94.33%
+* **CGPA:** 94.333%
 * **Awards:** Governor-General’s Gold Medal, Dean’s Scholar Award for Science and Environmental Studies.
+
+**Bachelor of Engineering in Computer Science** | *Visvesvaraya Technological University* (May 2023)
+* **CGPA:** 9.06 CGPA
