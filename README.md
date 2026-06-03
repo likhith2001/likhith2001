@@ -1,7 +1,12 @@
 <div align="center">
   
   # Likhith Varma Muddulur
-  **Data Analytics Engineer**
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=3670A0&center=true&vCenter=true&width=600&lines=Data+Analytics+Engineer;M.Sc.+Computer+Science+Grad;Ex-Uber+Data+Consultant;Specialized+in+ETL+%26+BI" alt="Typing SVG" />
+  </a>
+  
+  <br>
   
   📍 Toronto, ON | [Portfolio](https://likhithvarma.com/) | [LinkedIn](https://www.linkedin.com/in/likhith-varma-2001/) | [likhith2001@gmail.com](mailto:likhith2001@gmail.com)
 
